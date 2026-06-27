@@ -3,8 +3,8 @@
 # 🤗 About me
 Im a Russian backend coder. I don't make videos at the moment and streams are rare. I know Python, Java, PHP, C++. And I'm founder of GameFriendsTeam.
 ## Skills:
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,sublime,obsidian,discord,git,github)](http://skillicons.dev/)<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,python,java,php)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,sublime,obsidian,discord)](http://skillicons.dev/)<br>
 [![My Skills](https://skillicons.dev/icons?i=arch,kali,ubuntu,windows)](http://skillicons.dev/)
 
 # 🔋 About team
