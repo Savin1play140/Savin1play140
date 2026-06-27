@@ -8,5 +8,5 @@ Im a Russian backend coder. I don't make videos at the moment and streams are ra
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,sublime,obsidian)](http://skillicons.dev/)
 
 # 🔋 About team
-[![GameFriendsTeam](https://github.com/GameFriendsteam/)] it's a frendly team engaged in various areas of life, such as: programs, drawings, pixel art, AI, and more.✨
+[![GameFriendsTeam]](https://github.com/GameFriendsteam/) it's a frendly team engaged in various areas of life, such as: programs, drawings, pixel art, AI, and more.✨
 We are not professionals, but we strive to be! 📣
