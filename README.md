@@ -13,7 +13,7 @@ Im a Russian backend coder. I'm founder of GameFriendsTeam.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savin1play140&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="langs" />
 </p><br>
 
-<br>[![GitHub Streak](https://streak-stats.demolab.com/?user=Savin1play140)](https://git.io/streak-stats)<br><br>
+<br>[![GitHub Streak](https://streak-stats.demolab.com?user=Savin1play140&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br>
 
 <a href="https://t.me/gmp_14_c">
   <img src="https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
