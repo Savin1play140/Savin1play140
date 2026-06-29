@@ -8,6 +8,8 @@ Im a Russian backend coder. I'm founder of GameFriendsTeam.
 [![My Skills](https://skillicons.dev/icons?i=arch,kali,ubuntu,windows)](http://skillicons.dev/)
 
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Savin1play140&theme=algolia"><br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Savin1play140&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savin1play140&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="langs" />
