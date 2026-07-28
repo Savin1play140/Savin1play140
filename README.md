@@ -13,8 +13,8 @@ Im a Russian backend coder. I'm founder of GameFriendsTeam.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DcorpProj&theme=algolia"><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Savin1play140&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savin1play140&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Savin1play140&show_icons=true&hide_border=true&bg_color=0d1117" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savin1play140&layout=compact&hide_border=true&bg_color=0d1117" alt="langs" />
 </p><br>
 
 <br>[![GitHub Streak](https://streak-stats.demolab.com?user=Savin1play140&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br>
